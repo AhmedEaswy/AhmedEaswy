@@ -1,30 +1,129 @@
-<h1 align="center">Hi 👋, I'm Ahmed Eleaswy</h1>
-<h3 align="center">A Front-End Developer from Egypt</h3>
+# Ahmed Eleaswy – Senior Full Stack Developer
 
-<p align="left"> <a href="https://twitter.com/ahmedeleaswy3" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedeleaswy3?logo=twitter&style=for-the-badge" alt="ahmedeleaswy3" /></a> </p>
-
-- 🔭 I’m currently working on [aqarlist](https://aqarlist.net)
-
-- 🌱 I’m currently learning **Node.js & React.js**
-
-- 💬 Ask me about **vue, javascript**
-
-- 📫 How to reach me **elesawy325@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qzJF3zUEQ998_oPmgHFtz11xqcKvEogj/view?usp=sharing](https://drive.google.com/file/d/1qzJF3zUEQ998_oPmgHFtz11xqcKvEogj/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/aelesawy325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aelesawy325" height="30" width="40" /></a>
-<a href="https://twitter.com/ahmedeleaswy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedeleaswy3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmed-eleaswy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-eleaswy" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/AhmedEleaswy3"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AhmedEleaswy3?label=Follow&style=social" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+A creative and detail-oriented **Senior Full Stack Developer** with **6+ years** of experience building responsive, dynamic, and high-performance web applications. Strong expertise in **Vue.js**, **Nuxt.js (v3)**, **Tailwind CSS**, and **TypeScript**, with solid backend experience using **Laravel** and **Livewire**. Experienced in delivering end-to-end solutions for **e-commerce**, **agriculture tech**, and **digital platforms**, with a strong focus on clean architecture, performance, and user experience.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedeaswy&show_icons=true&locale=en&layout=compact" alt="ahmedeaswy" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedeaswy&show_icons=true&locale=en" alt="ahmedeaswy" /></p>
+## 💼 Experience
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedeaswy&" alt="ahmedeaswy" /></p>
+### **Senior Full Stack Developer**  
+**From Scratch** · Turkey (Remote)  
+*2024 – Present*  
+- Building full-scale applications using **Vue.js**, **Nuxt.js (v3)**, and **Tailwind CSS**  
+- Developed complete admin dashboards using **Nuxt.js** & **Vuetify**  
+- Backend development with **Laravel** and **Livewire**
+
+### **Front-End Developer**  
+**Share Adawli IT Solutions** · Saudi Arabia (Remote)  
+*2022 – 2024*  
+- Worked on multiple client-based projects  
+- Technologies: **Tailwind CSS**, **ES6**, **OOP**, **Alpine.js**, **Bootstrap**
+
+### **Front-End Developer (Freelance)**  
+**5Code** · Remote  
+*2022 – 2023*  
+- Collaborated within large teams on enterprise-level projects  
+- Focused on scalable UI components and performance
+
+### **Front-End Developer**  
+**Rwabett** · Remote  
+*2019 – 2023*  
+- Worked as an experienced Front-End Developer and junior Full-Stack contributor  
+- Delivered multiple production-ready web projects
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Computer Science & Statistics**  
+Faculty of Science – Mansoura University  
+*2020 – 2024*
+
+---
+
+## 🚀 Projects
+
+### **Maazim** – From Scratch  
+🔗 https://maazim.app/en  
+- Full e-commerce platform for gifting in Saudi Arabia  
+- **Nuxt.js**, **Tailwind CSS**, **SSR**, **RESTful APIs**  
+- Admin dashboard built with **Nuxt.js** & **Vuetify**
+
+### **2060 Agriculture** – From Scratch  
+🔗 https://shop.2060ksa.net  
+- Full e-commerce website and dashboard  
+- **Nuxt.js 3**, **TypeScript**, **Tailwind CSS**, **Vuetify**, **Nuxt UI**
+
+### **Rafid360** – From Scratch  
+🔗 https://rafid360.com  
+- Digital platform focused on sustainability and organizational empowerment  
+- **HTML5**, **CSS3**, **SCSS**, **Tailwind**, **JavaScript**, **Alpine.js**, **Laravel**, **Livewire**
+
+### **Syntaxgap** – Rwabett  
+🔗 https://guide.syntaxgap.com  
+- Interactive 3D experience using **Three.js**
+
+### **Ablir.sa** – Share Adawli  
+🔗 https://albir.sa  
+- Charity donation platform & beneficiary system  
+- **Laravel**, **Bootstrap**, **Axios**, **JavaScript**
+
+---
+
+## 🧠 Skills
+
+### Frontend
+- HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- Vue.js, Nuxt.js, Next.js, React.js  
+- Tailwind CSS, Vuetify, Bootstrap  
+- Alpine.js, Three.js, Astro.js  
+- PWA, Capacitor.js
+
+### Backend
+- Laravel, Livewire  
+- RESTful APIs, GraphQL
+
+### Design & Tools
+- Figma, Adobe XD, Photoshop  
+- Git & GitHub
+
+### Languages
+- Arabic (Native)  
+- English (Good)
+
+---
+
+## 🤝 Volunteering
+
+**Frontend Mentor – CAT Reloaded (IEEE Mansoura University)**  
+*2021 – 2022*  
+- Mentored and trained students in frontend development and best practices
+
+---
+
+## 🔗 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/ahmed-eleaswy/  
+- **GitHub:** https://github.com/AhmedEaswy  
+- **Twitter:** https://twitter.com/AhmedEleaswy3  
+- **CodePen:** https://codepen.io/aelesawy325  
+
+📧 **Email:** elesawy325@gmail.com  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedEaswy&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedEaswy&show_icons=true&locale=en" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedEaswy" />
+</p>
