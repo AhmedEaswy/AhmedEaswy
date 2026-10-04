@@ -81,7 +81,7 @@ A tourism-services marketplace in Saudi Arabia: subscription billing with
 proration and payment gateways, bookings with WhatsApp confirmation flows, and a
 Google Maps trip planner with clustering and weather.
 
-**Leap / Leap PM** — *From Scratch Solutions* — Full-Stack
+**Leap / Leap PM** — Full-Stack
 A cross-platform product platform: a typed Bun + Hono + oRPC + Drizzle backend
 powering a React web app, an Expo mobile app and a desktop client, with realtime
 chat, queues and enterprise auth.
