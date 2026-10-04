@@ -2,6 +2,8 @@
 
 **Senior Software Engineer · Full-Stack Engineer · Forward Deployed Engineer**
 
+📎 **[My Code Identity →](https://github.com/AhmedEaswy/my-code-identity)** — annotated, anonymized case studies behind the projects below.
+
 I ship production systems end to end — from the database invariant to the last
 accessible pixel on the screen — and I like being *deployed* close to the
 problem: embedded with the people who have it, turning an ambiguous requirement
@@ -90,8 +92,6 @@ chat, queues and enterprise auth.
 A bilingual personal-brand and knowledge platform: intellectual biography,
 services, a knowledge library with guides and downloads, newsletter and lead
 capture, behind a Filament admin — shipped with zero-downtime Deployer CI/CD.
-
-**My Code Identity →** [annotated case studies](https://github.com/AhmedEaswy/my-code-identity)
 
 ## 🛠️ Tech I use
 
