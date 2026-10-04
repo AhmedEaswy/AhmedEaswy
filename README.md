@@ -86,6 +86,11 @@ A cross-platform product platform: a typed Bun + Hono + oRPC + Drizzle backend
 powering a React web app, an Expo mobile app and a desktop client, with realtime
 chat, queues and enterprise auth.
 
+**[Ahmad Alzeer](https://ahmadalzeer.com/)** — *From Scratch Solutions* — Full-Stack
+A bilingual personal-brand and knowledge platform: intellectual biography,
+services, a knowledge library with guides and downloads, newsletter and lead
+capture, behind a Filament admin — shipped with zero-downtime Deployer CI/CD.
+
 **My Code Identity →** [annotated case studies](https://github.com/AhmedEaswy/my-code-identity)
 
 ## 🛠️ Tech I use
