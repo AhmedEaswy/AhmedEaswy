@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/AhmedEaswy.png" width="120" height="120" style="border-radius:50%" alt="Ahmed Eleaswy" />
   <h1>Ahmed Eleaswy</h1>
-  <img src="assets/typing.svg" alt="Senior Software Engineer · Full-Stack Engineer · Forward Deployed Engineer" />
+  <p><b>Senior Software Engineer · Full-Stack Engineer · Forward Deployed Engineer</b></p>
   <p>
     <a href="https://www.linkedin.com/in/ahmed-eleaswy"><img src="assets/badges/linkedin.svg" alt="LinkedIn" /></a>
     <a href="mailto:elesawy325@gmail.com"><img src="assets/badges/email.svg" alt="Email" /></a>
@@ -44,13 +44,13 @@ I don't wait for a perfect ticket. I get close to the user or the operator, find
 **Senior Full-Stack Developer — [From Scratch](https://fromscratch-solutions.com/)** · Remote (Turkey) · 2024 – Present
 Working in a large team on advanced products with Vue.js, Next.js and Laravel.
 
-**Full-Stack Developer — Share Adawli IT Solutions** · Saudi Arabia (Hybrid) · 2022 – 2024
+**Full-Stack Developer — [Share Adawli IT Solutions](https://share.net.sa/)** · Saudi Arabia (Hybrid) · 2022 – 2024
 Enhanced and scaled advanced charity systems, built a web-builder SaaS, and delivered many client-based projects.
 
-**Front-End Developer — 5Code** · Freelance (Remote) · 2022 – 2023
+**Front-End Developer — [5Code](https://www.5code.net/)** · Freelance (Remote) · 2022 – 2023
 Delivered client projects within a large team.
 
-**Front-End Developer — Rwabett** · Cairo · 2019 – 2023
+**Front-End Developer — [Rwabett](https://rwabett.com/)** · Cairo · 2019 – 2023
 Built web projects across the front end, growing into backend work.
 
 ## <img src="assets/icons/reward.svg" width="22" height="22" alt="" /> Selected projects
@@ -61,7 +61,7 @@ Built web projects across the front end, growing into backend work.
 | **2060 Agriculture** | Full e-commerce website and dashboard, built for performance and design quality | Nuxt 3 · TS · Tailwind · Vuetify | [visit](https://shop.2060ksa.net/) |
 | **Maazim** | Complete gifting platform for Saudi Arabia plus a full management dashboard | Nuxt · Tailwind · SSR · REST | [visit](https://maazim.app/) |
 | **Code Moments** | Software-house website and portfolio: pixel-perfect, animated, SEO-strong | Nuxt · TS · GSAP | [visit](https://codemoments.com/) |
-| **Ablir.sa** | Charity donations store and beneficiary system — built, enhanced and scaled | Laravel · Livewire | — |
+| **Ablir.sa** | Charity donations store and beneficiary system — built, enhanced and scaled | Laravel · Livewire | [visit](https://albir.sa/) |
 | **Taifk** | Two-sided services marketplace: bookings, a double-entry wallet ledger, payments and a data-heavy Nuxt admin | Laravel · Filament · Nuxt · Redis | [visit](https://taifk.com.sa/) |
 | **Bosalty** | Tourism marketplace: subscription billing, payments, WhatsApp flows and a maps trip planner | Laravel · Filament · Livewire · Pest | [visit](https://bosalty.com/) |
 | **Leap / Leap PM** | Cross-platform product: a typed Bun/oRPC/Drizzle backend powering React and native apps, with realtime chat | Bun · oRPC · Drizzle · React · Expo | [visit](https://leap-pm.com/) |
