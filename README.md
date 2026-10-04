@@ -1,39 +1,43 @@
-<h1>Hi, I'm Ahmed Eleaswy <img src="assets/icons/star.svg" width="30" height="30" alt="" /></h1>
+<div align="center">
+  <img src="https://github.com/AhmedEaswy.png" width="120" height="120" style="border-radius:50%" alt="Ahmed Eleaswy" />
+  <h1>Ahmed Eleaswy</h1>
+  <img src="assets/typing.svg" alt="Senior Software Engineer · Full-Stack Engineer · Forward Deployed Engineer" />
+  <p>
+    <a href="https://www.linkedin.com/in/ahmed-eleaswy"><img src="assets/badges/linkedin.svg" alt="LinkedIn" /></a>
+    <a href="mailto:elesawy325@gmail.com"><img src="assets/badges/email.svg" alt="Email" /></a>
+    <a href="https://github.com/AhmedEaswy"><img src="assets/badges/github.svg" alt="GitHub" /></a>
+    <img src="assets/badges/open-to.svg" alt="Open to work" />
+    <img src="assets/badges/location.svg" alt="Cairo, Egypt (GMT+2)" />
+  </p>
+</div>
 
-**Senior Software Engineer · Full-Stack Engineer · Forward Deployed Engineer**
+<p align="center">
+  <b>6+ years</b> · <b>9 featured products</b> · <b>4 teams</b> · <b>Arabic / English</b> · <b>GMT+2</b>
+</p>
 
-<img src="assets/icons/coding.svg" width="18" height="18" alt="" /> **[My Code Identity →](https://github.com/AhmedEaswy/my-code-identity)** — annotated, anonymized case studies behind the projects below.
+<p align="center">
+  <img src="assets/icons/coding.svg" width="18" height="18" alt="" />
+  <b>Code samples →</b> <a href="https://github.com/AhmedEaswy/my-code-identity">My Code Identity</a>
+  <br/>
+  <sub>Open first:
+    <a href="https://github.com/AhmedEaswy/my-code-identity/tree/main/cases/01-invariant-enforcement">Money integrity</a> ·
+    <a href="https://github.com/AhmedEaswy/my-code-identity/tree/main/cases/06-type-safe-api">Type-safe APIs</a> ·
+    <a href="https://github.com/AhmedEaswy/my-code-identity/tree/main/cases/09-course-progression-certificates">Course progression</a>
+  </sub>
+</p>
 
-I ship production systems end to end — from the database invariant to the last
-accessible pixel on the screen — and I like being *deployed* close to the
-problem: embedded with the people who have it, turning an ambiguous requirement
-into something running in production.
-
-6+ years building high-quality, high-performance products: fintech-grade
-backends, type-safe APIs, animated product front ends, and cross-platform apps.
-My bias is toward correctness under real-world pressure: money that reconciles,
-contracts that cannot drift, and failures that are loud and specific instead of
-silent.
-
-- <img src="assets/icons/compass-1.svg" width="16" height="16" alt="" /> Egypt, Cairo
-- <img src="assets/icons/rocket-launch-chart.svg" width="16" height="16" alt="" /> Forward deployed — I scope with stakeholders, then own it through to production
-- <img src="assets/icons/programming.svg" width="16" height="16" alt="" /> Full-stack across PHP/Laravel and TypeScript/Node, plus Vue/Nuxt, React/Next and Svelte
-- <img src="assets/icons/graph-pie.svg" width="16" height="16" alt="" /> Domains: payments & ledgers, subscriptions, marketplaces, learning platforms, e-commerce
-- <img src="assets/icons/money-briefcase.svg" width="16" height="16" alt="" /> Senior Full-Stack Developer at [From Scratch](https://fromscratch-solutions.com/) (remote, Turkey)
+I ship production systems end to end — from the database invariant to the last accessible pixel — and I like being *deployed* close to the problem: embedded with the people who have it, turning an ambiguous requirement into something running in production. My bias is toward **correctness under real-world pressure**: money that reconciles, contracts that cannot drift, and failures that are loud and specific instead of silent.
 
 ## <img src="assets/icons/rocket-launch-chart.svg" width="22" height="22" alt="" /> What "forward deployed" means to me
 
-I don't wait for a perfect ticket. I get close to the user or the operator, find
-the real constraint, and build the smallest correct thing that removes it — then
-harden it. That has meant:
+I don't wait for a perfect ticket. I get close to the user or the operator, find the real constraint, and build the smallest correct thing that removes it — then harden it.
 
 - <img src="assets/icons/validation-1.svg" width="16" height="16" alt="" /> owning multi-payment-gateway flows and an **advanced dashboard** end to end;
 - <img src="assets/icons/validation-1.svg" width="16" height="16" alt="" /> scaling a **charity donation and beneficiary system** over a long engagement;
 - <img src="assets/icons/validation-1.svg" width="16" height="16" alt="" /> shipping **fast, animated, SEO-strong** product and marketing sites;
 - <img src="assets/icons/validation-1.svg" width="16" height="16" alt="" /> keeping a large team's product **coherent across Nuxt, Next.js, Laravel and TypeScript**.
 
-The through-line is the same in every stack: **model the invariant, make illegal
-states unrepresentable, prove it with a test, and make the failure mode loud.**
+> The through-line in every stack: **model the invariant, make illegal states unrepresentable, prove it with a test, and make the failure mode loud.**
 
 ## <img src="assets/icons/money-briefcase.svg" width="22" height="22" alt="" /> Experience
 
@@ -41,8 +45,7 @@ states unrepresentable, prove it with a test, and make the failure mode loud.**
 Working in a large team on advanced products with Vue.js, Next.js and Laravel.
 
 **Full-Stack Developer — Share Adawli IT Solutions** · Saudi Arabia (Hybrid) · 2022 – 2024
-Enhanced and scaled advanced charity systems, built a web-builder SaaS, and
-delivered many client-based projects.
+Enhanced and scaled advanced charity systems, built a web-builder SaaS, and delivered many client-based projects.
 
 **Front-End Developer — 5Code** · Freelance (Remote) · 2022 – 2023
 Delivered client projects within a large team.
@@ -52,58 +55,32 @@ Built web projects across the front end, growing into backend work.
 
 ## <img src="assets/icons/reward.svg" width="22" height="22" alt="" /> Selected projects
 
-**[Digi Pedia](https://digi-pedia.com/)** — *From Scratch Solutions* — Full-Stack
-A digital encyclopedia for technical tools, an online education and courses
-platform, and live webinars. Integrated multiple payment gateways and built an
-advanced dashboard system.
-
-**[2060 Agriculture](https://shop.2060ksa.net/)** — *From Scratch Solutions* — Front-End
-A full e-commerce website and dashboard built for performance and design quality
-with Nuxt 3, TypeScript, Tailwind CSS, Vuetify and Nuxt UI.
-
-**[Maazim](https://maazim.app/)** — *From Scratch Solutions* — Full-Stack
-A complete gifting platform for Saudi Arabia — Nuxt.js, Tailwind CSS, SSR and
-RESTful APIs across platforms, plus a full management dashboard (Nuxt + Vuetify).
-
-**[Code Moments](https://codemoments.com/)** — *From Scratch Solutions* — Full-Stack
-A software-house website and portfolio: pixel-perfect design, high performance,
-SEO and a rich animation experience.
-
-**Ablir.sa** — *Share Adawli* — Full-Stack
-A charity donations website/store and beneficiary system — created, enhanced and
-scaled over a long engagement.
-
-**[Taifk](https://taifk.com.sa/)** — *From Scratch Solutions* — Full-Stack
-A two-sided services marketplace for Saudi Arabia: multi-category bookings with
-availability, a double-entry wallet and settlement ledger across clients,
-branches and the platform, payments, and a data-heavy Nuxt admin with reporting.
-
-**[Bosalty](https://bosalty.com/)** — *From Scratch Solutions* — Full-Stack
-A tourism-services marketplace in Saudi Arabia: subscription billing with
-proration and payment gateways, bookings with WhatsApp confirmation flows, and a
-Google Maps trip planner with clustering and weather.
-
-**[Leap / Leap PM](https://leap-pm.com/)** — Full-Stack
-A cross-platform product platform: a typed Bun + Hono + oRPC + Drizzle backend
-powering a React web app, an Expo mobile app and a desktop client, with realtime
-chat, queues and enterprise auth.
-
-**[Ahmad Alzeer](https://ahmadalzeer.com/)** — *From Scratch Solutions* — Full-Stack
-A bilingual personal-brand and knowledge platform: intellectual biography,
-services, a knowledge library with guides and downloads, newsletter and lead
-capture, behind a Filament admin — shipped with zero-downtime Deployer CI/CD.
+| Project | What I built | Stack | Live |
+|---|---|---|---|
+| **Digi Pedia** | Digital encyclopedia, an online courses platform and live webinars; multiple payment gateways and an advanced dashboard | Laravel · Nuxt · Payments | [visit](https://digi-pedia.com/) |
+| **2060 Agriculture** | Full e-commerce website and dashboard, built for performance and design quality | Nuxt 3 · TS · Tailwind · Vuetify | [visit](https://shop.2060ksa.net/) |
+| **Maazim** | Complete gifting platform for Saudi Arabia plus a full management dashboard | Nuxt · Tailwind · SSR · REST | [visit](https://maazim.app/) |
+| **Code Moments** | Software-house website and portfolio: pixel-perfect, animated, SEO-strong | Nuxt · TS · GSAP | [visit](https://codemoments.com/) |
+| **Ablir.sa** | Charity donations store and beneficiary system — built, enhanced and scaled | Laravel · Livewire | — |
+| **Taifk** | Two-sided services marketplace: bookings, a double-entry wallet ledger, payments and a data-heavy Nuxt admin | Laravel · Filament · Nuxt · Redis | [visit](https://taifk.com.sa/) |
+| **Bosalty** | Tourism marketplace: subscription billing, payments, WhatsApp flows and a maps trip planner | Laravel · Filament · Livewire · Pest | [visit](https://bosalty.com/) |
+| **Leap / Leap PM** | Cross-platform product: a typed Bun/oRPC/Drizzle backend powering React and native apps, with realtime chat | Bun · oRPC · Drizzle · React · Expo | [visit](https://leap-pm.com/) |
+| **Ahmad Alzeer** | Bilingual personal-brand and knowledge platform with a Filament admin and zero-downtime Deployer CI/CD | Laravel · Filament · Livewire · Deployer | [visit](https://ahmadalzeer.com/) |
 
 ## <img src="assets/icons/wrench.svg" width="22" height="22" alt="" /> Tech I use
 
-**<img src="assets/icons/server-network.svg" width="16" height="16" alt="" /> Backend** — PHP 8 · Laravel · Livewire · Node.js · NestJS · Express · Better-T-Stack · GraphQL · REST · WebSockets
+<p align="center">
+  <img src="assets/tech-stack.svg" width="640" alt="PHP, Laravel, Node.js, NestJS, Express, GraphQL, TypeScript, Vue, Nuxt, React, Next.js, Svelte, Tailwind, Astro, Redux, Three.js, Flutter, Dart, PostgreSQL, MySQL, MongoDB, Redis, Docker, AWS, Cloudflare, Git, GitHub, Figma, VS Code, Postman" />
+</p>
 
-**<img src="assets/icons/app-window.svg" width="16" height="16" alt="" /> Frontend** — TypeScript · Vue 3 · Nuxt · React · Next.js · Redux · Svelte · Alpine.js · Astro · Tailwind CSS · Vuetify · Nuxt UI · ECharts · GSAP · Three.js
+**Also:** Livewire · Filament · oRPC · Drizzle · Alpine.js · Vuetify · Nuxt UI · ECharts · GSAP · Capacitor.js · PWA · Better-T-Stack · Deployer
 
-**<img src="assets/icons/mobile-phone.svg" width="16" height="16" alt="" /> Mobile & cross-platform** — Capacitor.js · PWA · Flutter · Dart
+## <img src="assets/icons/graph-pie.svg" width="22" height="22" alt="" /> GitHub
 
-**<img src="assets/icons/cloud-data-transfer.svg" width="16" height="16" alt="" /> Data & infra** — PostgreSQL · MySQL · MongoDB · Docker · AWS · VPS · CI/CD
-
-**<img src="assets/icons/lab-tools.svg" width="16" height="16" alt="" /> Quality & tooling** — Unit testing · OOP · Figma · Adobe XD · Photoshop
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedEaswy&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&hide_rank=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEaswy&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+</p>
 
 ## <img src="assets/icons/education-degree.svg" width="22" height="22" alt="" /> Education
 
