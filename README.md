@@ -1,8 +1,8 @@
-# Hi, I'm Ahmed Eleaswy 👋
+<h1>Hi, I'm Ahmed Eleaswy <img src="https://api.iconify.design/ph/hand-waving-duotone.svg?color=%232563EB" width="30" height="30" alt="" /></h1>
 
 **Senior Software Engineer · Full-Stack Engineer · Forward Deployed Engineer**
 
-📎 **[My Code Identity →](https://github.com/AhmedEaswy/my-code-identity)** — annotated, anonymized case studies behind the projects below.
+<img src="https://api.iconify.design/ph/paperclip-duotone.svg?color=%232563EB" width="18" height="18" alt="" /> **[My Code Identity →](https://github.com/AhmedEaswy/my-code-identity)** — annotated, anonymized case studies behind the projects below.
 
 I ship production systems end to end — from the database invariant to the last
 accessible pixel on the screen — and I like being *deployed* close to the
@@ -15,27 +15,27 @@ My bias is toward correctness under real-world pressure: money that reconciles,
 contracts that cannot drift, and failures that are loud and specific instead of
 silent.
 
-- 🌍 Egypt, Cairo
-- 🧭 Forward deployed — I scope with stakeholders, then own it through to production
-- 🧱 Full-stack across PHP/Laravel and TypeScript/Node, plus Vue/Nuxt, React/Next and Svelte
-- 🎯 Domains: payments & ledgers, subscriptions, marketplaces, learning platforms, e-commerce
-- 🏢 Senior Full-Stack Developer at [From Scratch](https://fromscratch-solutions.com/) (remote, Turkey)
+- <img src="https://api.iconify.design/ph/map-pin-duotone.svg?color=%232563EB" width="16" height="16" alt="" /> Egypt, Cairo
+- <img src="https://api.iconify.design/ph/compass-duotone.svg?color=%232563EB" width="16" height="16" alt="" /> Forward deployed — I scope with stakeholders, then own it through to production
+- <img src="https://api.iconify.design/ph/stack-duotone.svg?color=%232563EB" width="16" height="16" alt="" /> Full-stack across PHP/Laravel and TypeScript/Node, plus Vue/Nuxt, React/Next and Svelte
+- <img src="https://api.iconify.design/ph/target-duotone.svg?color=%232563EB" width="16" height="16" alt="" /> Domains: payments & ledgers, subscriptions, marketplaces, learning platforms, e-commerce
+- <img src="https://api.iconify.design/ph/buildings-duotone.svg?color=%232563EB" width="16" height="16" alt="" /> Senior Full-Stack Developer at [From Scratch](https://fromscratch-solutions.com/) (remote, Turkey)
 
-## 🧭 What "forward deployed" means to me
+## <img src="https://api.iconify.design/ph/compass-duotone.svg?color=%232563EB" width="22" height="22" alt="" /> What "forward deployed" means to me
 
 I don't wait for a perfect ticket. I get close to the user or the operator, find
 the real constraint, and build the smallest correct thing that removes it — then
 harden it. That has meant:
 
-- owning multi-payment-gateway flows and an **advanced dashboard** end to end;
-- scaling a **charity donation and beneficiary system** over a long engagement;
-- shipping **fast, animated, SEO-strong** product and marketing sites;
-- keeping a large team's product **coherent across Nuxt, Next.js, Laravel and TypeScript**.
+- <img src="https://api.iconify.design/ph/check-circle-duotone.svg?color=%232563EB" width="16" height="16" alt="" /> owning multi-payment-gateway flows and an **advanced dashboard** end to end;
+- <img src="https://api.iconify.design/ph/check-circle-duotone.svg?color=%232563EB" width="16" height="16" alt="" /> scaling a **charity donation and beneficiary system** over a long engagement;
+- <img src="https://api.iconify.design/ph/check-circle-duotone.svg?color=%232563EB" width="16" height="16" alt="" /> shipping **fast, animated, SEO-strong** product and marketing sites;
+- <img src="https://api.iconify.design/ph/check-circle-duotone.svg?color=%232563EB" width="16" height="16" alt="" /> keeping a large team's product **coherent across Nuxt, Next.js, Laravel and TypeScript**.
 
 The through-line is the same in every stack: **model the invariant, make illegal
 states unrepresentable, prove it with a test, and make the failure mode loud.**
 
-## 💼 Experience
+## <img src="https://api.iconify.design/ph/briefcase-duotone.svg?color=%232563EB" width="22" height="22" alt="" /> Experience
 
 **Senior Full-Stack Developer — [From Scratch](https://fromscratch-solutions.com/)** · Remote (Turkey) · 2024 – Present
 Working in a large team on advanced products with Vue.js, Next.js and Laravel.
@@ -50,7 +50,7 @@ Delivered client projects within a large team.
 **Front-End Developer — Rwabett** · Cairo · 2019 – 2023
 Built web projects across the front end, growing into backend work.
 
-## 🚀 Selected projects
+## <img src="https://api.iconify.design/ph/rocket-launch-duotone.svg?color=%232563EB" width="22" height="22" alt="" /> Selected projects
 
 **[Digi Pedia](https://digi-pedia.com/)** — *From Scratch Solutions* — Full-Stack
 A digital encyclopedia for technical tools, an online education and courses
@@ -93,28 +93,28 @@ A bilingual personal-brand and knowledge platform: intellectual biography,
 services, a knowledge library with guides and downloads, newsletter and lead
 capture, behind a Filament admin — shipped with zero-downtime Deployer CI/CD.
 
-## 🛠️ Tech I use
+## <img src="https://api.iconify.design/ph/wrench-duotone.svg?color=%232563EB" width="22" height="22" alt="" /> Tech I use
 
-**Backend** — PHP 8 · Laravel · Livewire · Node.js · NestJS · Express · Better-T-Stack · GraphQL · REST · WebSockets
+**<img src="https://api.iconify.design/ph/server-duotone.svg?color=%232563EB" width="16" height="16" alt="" /> Backend** — PHP 8 · Laravel · Livewire · Node.js · NestJS · Express · Better-T-Stack · GraphQL · REST · WebSockets
 
-**Frontend** — TypeScript · Vue 3 · Nuxt · React · Next.js · Redux · Svelte · Alpine.js · Astro · Tailwind CSS · Vuetify · Nuxt UI · ECharts · GSAP · Three.js
+**<img src="https://api.iconify.design/ph/browser-duotone.svg?color=%232563EB" width="16" height="16" alt="" /> Frontend** — TypeScript · Vue 3 · Nuxt · React · Next.js · Redux · Svelte · Alpine.js · Astro · Tailwind CSS · Vuetify · Nuxt UI · ECharts · GSAP · Three.js
 
-**Mobile & cross-platform** — Capacitor.js · PWA · Flutter · Dart
+**<img src="https://api.iconify.design/ph/device-mobile-duotone.svg?color=%232563EB" width="16" height="16" alt="" /> Mobile & cross-platform** — Capacitor.js · PWA · Flutter · Dart
 
-**Data & infra** — PostgreSQL · MySQL · MongoDB · Docker · AWS · VPS · CI/CD
+**<img src="https://api.iconify.design/ph/cloud-duotone.svg?color=%232563EB" width="16" height="16" alt="" /> Data & infra** — PostgreSQL · MySQL · MongoDB · Docker · AWS · VPS · CI/CD
 
-**Quality & tooling** — Unit testing · OOP · Figma · Adobe XD · Photoshop
+**<img src="https://api.iconify.design/ph/test-tube-duotone.svg?color=%232563EB" width="16" height="16" alt="" /> Quality & tooling** — Unit testing · OOP · Figma · Adobe XD · Photoshop
 
-## 🎓 Education
+## <img src="https://api.iconify.design/ph/graduation-cap-duotone.svg?color=%232563EB" width="22" height="22" alt="" /> Education
 
 **B.Sc. Computer Science & Statistics — Mansoura University** · 2020 – 2025
 
-## 🤝 Volunteering
+## <img src="https://api.iconify.design/ph/hand-heart-duotone.svg?color=%232563EB" width="22" height="22" alt="" /> Volunteering
 
 **Front-End Mentor — CAT Reloaded (Mansoura University IEEE)** · 2021 – 2022
 Mentored and trained students and senior students.
 
-## 📫 Let's connect
+## <img src="https://api.iconify.design/ph/paper-plane-tilt-duotone.svg?color=%232563EB" width="22" height="22" alt="" /> Let's connect
 
 - **Email:** elesawy325@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/ahmed-eleaswy
