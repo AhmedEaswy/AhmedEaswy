@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/ahmed-eleaswy"><img src="assets/badges/linkedin.svg" alt="LinkedIn" /></a>
     <a href="mailto:elesawy325@gmail.com"><img src="assets/badges/email.svg" alt="Email" /></a>
     <a href="https://github.com/AhmedEaswy"><img src="assets/badges/github.svg" alt="GitHub" /></a>
-    <img src="assets/badges/open-to.svg" alt="Open to work" />
+    <a href="https://t.me/AhmedEleaswy"><img src="assets/badges/telegram.svg" alt="Telegram" /></a>
     <img src="assets/badges/location.svg" alt="Cairo, Egypt (GMT+2)" />
   </p>
 </div>
@@ -90,3 +90,4 @@ Mentored and trained students and senior students.
 - <img src="assets/icons/mail.svg" width="16" height="16" alt="" /> **Email:** elesawy325@gmail.com
 - <img src="assets/icons/online-information.svg" width="16" height="16" alt="" /> **LinkedIn:** https://www.linkedin.com/in/ahmed-eleaswy
 - <img src="assets/icons/cursor.svg" width="16" height="16" alt="" /> **GitHub:** https://github.com/AhmedEaswy
+- <img src="assets/icons/telegram.svg" width="16" height="16" alt="" /> **Telegram:** https://t.me/AhmedEleaswy
