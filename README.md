@@ -13,7 +13,7 @@ My bias is toward correctness under real-world pressure: money that reconciles,
 contracts that cannot drift, and failures that are loud and specific instead of
 silent.
 
-- 🌍 Egypt, Mansoura · working remotely (GMT+2)
+- 🌍 Egypt, Cairo
 - 🧭 Forward deployed — I scope with stakeholders, then own it through to production
 - 🧱 Full-stack across PHP/Laravel and TypeScript/Node, plus Vue/Nuxt, React/Next and Svelte
 - 🎯 Domains: payments & ledgers, subscriptions, marketplaces, learning platforms, e-commerce
@@ -71,8 +71,22 @@ SEO and a rich animation experience.
 A charity donations website/store and beneficiary system — created, enhanced and
 scaled over a long engagement.
 
-**Code samples →** [annotated case studies](https://github.com/AhmedEaswy/my-code-identity)
-*(update the URL if the repository name differs)*
+**Taifk** — *From Scratch Solutions* — Full-Stack
+A two-sided services marketplace for Saudi Arabia: multi-category bookings with
+availability, a double-entry wallet and settlement ledger across clients,
+branches and the platform, payments, and a data-heavy Nuxt admin with reporting.
+
+**Bosalty** — *From Scratch Solutions* — Full-Stack
+A tourism-services marketplace in Saudi Arabia: subscription billing with
+proration and payment gateways, bookings with WhatsApp confirmation flows, and a
+Google Maps trip planner with clustering and weather.
+
+**Leap / Leap PM** — *From Scratch Solutions* — Full-Stack
+A cross-platform product platform: a typed Bun + Hono + oRPC + Drizzle backend
+powering a React web app, an Expo mobile app and a desktop client, with realtime
+chat, queues and enterprise auth.
+
+**My Code Identity →** [annotated case studies](https://github.com/AhmedEaswy/my-code-identity)
 
 ## 🛠️ Tech I use
 
