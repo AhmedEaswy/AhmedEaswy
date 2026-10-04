@@ -17,13 +17,7 @@
 
 <p align="center">
   <img src="assets/icons/coding.svg" width="18" height="18" alt="" />
-  <b>Code samples →</b> <a href="https://github.com/AhmedEaswy/my-code-identity">My Code Identity</a>
-  <br/>
-  <sub>Open first:
-    <a href="https://github.com/AhmedEaswy/my-code-identity/tree/main/cases/01-invariant-enforcement">Money integrity</a> ·
-    <a href="https://github.com/AhmedEaswy/my-code-identity/tree/main/cases/06-type-safe-api">Type-safe APIs</a> ·
-    <a href="https://github.com/AhmedEaswy/my-code-identity/tree/main/cases/09-course-progression-certificates">Course progression</a>
-  </sub>
+  <a href="https://github.com/AhmedEaswy/my-code-identity"> My Code Identity</a>
 </p>
 
 I ship production systems end to end — from the database invariant to the last accessible pixel — and I like being *deployed* close to the problem: embedded with the people who have it, turning an ambiguous requirement into something running in production. My bias is toward **correctness under real-world pressure**: money that reconciles, contracts that cannot drift, and failures that are loud and specific instead of silent.
