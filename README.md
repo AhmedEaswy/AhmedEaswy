@@ -24,7 +24,7 @@ I don't wait for a perfect ticket. I get close to the user or the operator, find
 - <img src="assets/icons/validation-1.svg" width="16" height="16" alt="" /> owning multi-payment-gateway flows and an **advanced dashboard** end to end;
 - <img src="assets/icons/validation-1.svg" width="16" height="16" alt="" /> scaling a **charity donation and beneficiary system** over a long engagement;
 - <img src="assets/icons/validation-1.svg" width="16" height="16" alt="" /> shipping **fast, animated, SEO-strong** product and marketing sites;
-- <img src="assets/icons/validation-1.svg" width="16" height="16" alt="" /> keeping a large team's product **coherent across Nuxt, Next.js, Laravel and TypeScript**.
+- <img src="assets/icons/validation-1.svg" width="16" height="16" alt="" /> keeping a large team's product **coherent across Nuxt.js/Next.js/..., Node.Js/Nest.js/elysiajs/..., PHP/Laravel**.
 
 > The through-line in every stack: **model the invariant, make illegal states unrepresentable, prove it with a test, and make the failure mode loud.**
 
