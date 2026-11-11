@@ -5,7 +5,6 @@
   <p>
     <a href="https://www.linkedin.com/in/ahmed-eleaswy"><img src="assets/badges/linkedin.svg" alt="LinkedIn" /></a>
     <a href="mailto:elesawy325@gmail.com"><img src="assets/badges/email.svg" alt="Email" /></a>
-    <a href="https://github.com/AhmedEaswy"><img src="assets/badges/github.svg" alt="GitHub" /></a>
     <a href="https://t.me/AhmedEleaswy"><img src="assets/badges/telegram.svg" alt="Telegram" /></a>
     <img src="assets/badges/location.svg" alt="Cairo, Egypt" />
   </p>
