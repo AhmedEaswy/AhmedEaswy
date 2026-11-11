@@ -15,11 +15,6 @@
   <b>6+ years</b> · <b>9 featured products</b> · <b>4 teams</b> · <b>Arabic / English</b> · <b>GMT+2</b>
 </p>
 
-<p align="center">
-  <img src="assets/icons/coding.svg" width="18" height="18" alt="" />
-  <a href="https://github.com/AhmedEaswy/my-code-identity"> My Code Identity</a>
-</p>
-
 I ship production systems end to end — from the database invariant to the last accessible pixel — and I like being *deployed* close to the problem: embedded with the people who have it, turning an ambiguous requirement into something running in production. My bias is toward **correctness under real-world pressure**: money that reconciles, contracts that cannot drift, and failures that are loud and specific instead of silent.
 
 ## <img src="assets/icons/rocket-launch-chart.svg" width="22" height="22" alt="" /> What "forward deployed" means to me
